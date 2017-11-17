@@ -1,4 +1,4 @@
-# JavaScript Asynchronous Module Definition (AMD) Explained
+# JavaScript Asynchronous Module Definition (AMD)
 
 ### Course
 
